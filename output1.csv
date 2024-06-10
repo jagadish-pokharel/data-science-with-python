@@ -1,0 +1,4 @@
+,name,age,address,age plus ten,age_squared,age cubed,age_binned
+0,alice,25,lubhoo,35,625,15625,20-30
+1,bob,30,laltipur,40,900,27000,20-30
+2,charlie,35,lagankhel,45,1225,42875,30-40
